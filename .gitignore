@@ -74,3 +74,11 @@ src/strategies/custom/dev_*.py
 moon-dev-ai-agents-for-trading/src/dev
 src/dev
 src/agents/api_data
+cookies.json
+data/
+
+/Users/md/Dropbox/dev/github/moon-dev-ai-agents-for-trading/src/data
+
+# add this to gitignor /Users/md/Dropbox/dev/github/moon-dev-ai-agents-for-trading/src/data
+src/data
+src/audio
